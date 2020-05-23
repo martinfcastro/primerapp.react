@@ -1,0 +1,45 @@
+{
+    "tasks": [
+        {
+            "Tipo": "Compras",
+            "Responsable": "Juli",
+            "Descrpción": "Verduleria",
+            "Prioridad": "Media"
+        },
+        {
+            "Tipo": "Limpieza",
+            "Responsable": "Marto",
+            "Descrpción": "Barrer",
+            "Prioridad": "Alta"
+        },
+        
+        {
+            "Tipo": "Arreglos",
+            "Responsable": "Marto",
+            "Descrpción": "Pegar chapa del lavadero",
+            "Prioridad": "Baja"
+        },
+        {
+            "Tipo": "Compras",
+            "Responsable": "Marto",
+            "Descrpción": "Carniceria",
+            "Prioridad": "Alta"
+        },
+        {
+            "Tipo": "Limpieza",
+            "Responsable": "Juli",
+            "Descrpción": "Baño",
+            "Prioridad": "Media"
+        },
+        
+        {
+            "Tipo": "Arreglos",
+            "Responsable": "Marto",
+            "Descrpción": "Impermiabilizar bacha cocina",
+            "Prioridad": "Media"
+        }
+        
+    
+    ]
+
+}
